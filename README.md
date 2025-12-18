@@ -3,7 +3,8 @@
 > **Note:** Due to the file size limitation, the dataset is hosted in the **Releases** section of this repository.
 
 ### How to Download
-1.This dataset can be downloaded from the following link
+1.
+This dataset can be downloaded from the following link
 
 https://ieee-dataport.org/documents/rgb-nir-flame-dataset
 
